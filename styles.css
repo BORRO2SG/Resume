@@ -24,11 +24,12 @@ body {
   border: 4px solid #333;
 }
 
-h1, h2, h3 {
+h2, h3 {
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 h1 {
+  font-family: "Poppins";
   font-size: 52px;
   color: #a04c66;
   margin-bottom: 0px;
